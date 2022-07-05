@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @surajpatil371
 - 👀 I’m interested in building products.
-- 🌱 I’m currently learning backend development
+- 🌱 I’m currently learning backend development & Devops
 - 📫 How to reach me suraj@getpowerplay.in
 
 <!---
